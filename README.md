@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # aws-client-s3
 Java console application showing how to interact with Amazon S3. The following figure is the application architecture (class diagram): 
-
+ 
 ![Event Trace](./aws-client-s3.gif)
 
 For details see:
@@ -57,6 +56,3 @@ See <a href="http://mvnrepository.com/artifact/joda-time/joda-time/2.8.1" target
 This sample application is distributed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License, Version 2.0</a>.
 
 
-=======
-# aws-client-s3
->>>>>>> refs/remotes/origin/master
